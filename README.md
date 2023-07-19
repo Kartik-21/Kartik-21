@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Flutter Developer 
-- 🌱 I’m currently learning Full Stack Dev
-- 👀 I’m interested in explore my Skills in to DevOps
+- 👋 Hi, I’m a Java developer (Spring boot) + Flutter developer
+- 👀 I’m interested in exploring my Skills
 - 📫 How to reach me https://www.linkedin.com/in/jain-kartik/
 
 <!---
